@@ -23,7 +23,7 @@
           <mxGeometry x="255" y="77" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-7" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;约束推导&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-8" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;系数求解&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="280" width="60" height="30" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-11" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;输入：浮点控制流图，多项式次数&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="62" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBgxIP3U0dcesAVG44n1-13" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;约束推导&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="171" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
