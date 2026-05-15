@@ -103,7 +103,7 @@
           <mxGeometry x="430" y="415" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-30" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;验证&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="124" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="124" y="268" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
