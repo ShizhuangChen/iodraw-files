@@ -63,14 +63,13 @@
         <mxCell id="RBgxIP3U0dcesAVG44n1-18" value="B不满足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="271" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RBgxIP3U0dcesAVG44n1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RBgxIP3U0dcesAVG44n1-18" target="RBgxIP3U0dcesAVG44n1-0">
+        <mxCell id="RBgxIP3U0dcesAVG44n1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RBgxIP3U0dcesAVG44n1-18">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428" y="120" as="targetPoint" />
             <Array as="points">
               <mxPoint x="70" y="210" />
               <mxPoint x="370" y="210" />
               <mxPoint x="370" y="120" />
-              <mxPoint x="410" y="120" />
-              <mxPoint x="410" y="131" />
             </Array>
           </mxGeometry>
         </mxCell>
