@@ -92,11 +92,11 @@
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-36" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RBgxIP3U0dcesAVG44n1-35">
           <mxGeometry x="0.2763" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-22" value="满足可靠性" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="239" y="415" width="120" height="80" as="geometry" />
+          <mxGeometry x="237" y="415" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Failure&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="415" width="120" height="80" as="geometry" />
