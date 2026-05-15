@@ -49,7 +49,7 @@
           <mxGeometry x="459" y="46" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-16" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;约束&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="282" width="60" height="30" as="geometry" />
+          <mxGeometry x="553" y="293" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-17" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;候选不变式&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="213" y="228" width="60" height="30" as="geometry" />
