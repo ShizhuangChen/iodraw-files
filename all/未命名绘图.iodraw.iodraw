@@ -63,10 +63,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RBgxIP3U0dcesAVG44n1-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RBgxIP3U0dcesAVG44n1-20">
+        <mxCell id="RBgxIP3U0dcesAVG44n1-21" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RBgxIP3U0dcesAVG44n1-20">
           <mxGeometry x="-0.3707" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RBgxIP3U0dcesAVG44n1-22" value="B不满足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="281" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
