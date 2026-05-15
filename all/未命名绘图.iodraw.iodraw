@@ -87,22 +87,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RBgxIP3U0dcesAVG44n1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RBgxIP3U0dcesAVG44n1-22" target="RBgxIP3U0dcesAVG44n1-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="452" as="sourcePoint" />
-            <mxPoint x="460" y="459" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="398" y="455" />
-              <mxPoint x="398" y="453" />
-              <mxPoint x="460" y="453" />
-              <mxPoint x="460" y="455" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RBgxIP3U0dcesAVG44n1-33" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RBgxIP3U0dcesAVG44n1-29">
-          <mxGeometry x="-0.3948" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="RBgxIP3U0dcesAVG44n1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RBgxIP3U0dcesAVG44n1-22" target="RBgxIP3U0dcesAVG44n1-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RBgxIP3U0dcesAVG44n1-22" value="满足可靠性" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="239" y="415" width="120" height="80" as="geometry" />
